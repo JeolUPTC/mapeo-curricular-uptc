@@ -1,0 +1,19 @@
+# Artefactos locales y paquetes de trabajo
+dist/
+node_modules/
+backups/
+exports/
+outputs/
+work/
+*.json
+!package.json
+*.docx
+*.xlsx
+!assets/templates/contenidos-ac.docx
+!assets/templates/mapeo-curricular.xlsx
+.env
+.env.*
+*.log
+.DS_Store
+Thumbs.db
+~$*
