@@ -26,7 +26,7 @@ function render(){
   button.classList.toggle('active',selected);
   button.setAttribute('aria-pressed',String(selected));
  });
- const views={malla,matrix,graph,catalog,exchange,configuration,glossary,competencies,history:historyView,program:programCatalog};
+ const views={malla,matrix,graph,catalog,exchange,configuration,glossary,competencies,history:historyView,program:programCatalog,help:helpView};
  $('screen').innerHTML=views[tab]();
 }
 document.addEventListener('click',event=>{

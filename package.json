@@ -1,8 +1,8 @@
 {
   "name": "mapeo-curricular-uptc",
-  "version": "0.1.0-piloto.1",
+  "version": "0.1.0-piloto.2",
   "private": true,
-  "description": "Piloto de diseÃ±o curricular por Ã¡reas con intercambio JSON",
+  "description": "Piloto de diseÃƒÂ±o curricular por ÃƒÂ¡reas con intercambio JSON",
   "engines": {
     "node": ">=22"
   },

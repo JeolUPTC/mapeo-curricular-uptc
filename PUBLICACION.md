@@ -1,6 +1,10 @@
 # Publicación del piloto en GitHub Pages
 
-Estado: preparado localmente; todavía sin repositorio remoto ni sitio publicado.
+Sitio publicado: https://jeoluptc.github.io/mapeo-curricular-uptc/
+
+Repositorio: https://github.com/JeolUPTC/mapeo-curricular-uptc
+
+Versión de esta actualización: 0.1.0-piloto.2.
 
 ## Información necesaria
 
@@ -25,7 +29,7 @@ Los JSON diligenciados, respaldos, archivos exportados y credenciales no se incl
 4. Ejecutar el flujo Publicar piloto en GitHub Pages. Revisar que validación, pruebas, construcción y publicación terminen correctamente.
 5. La URL será `https://CUENTA.github.io/REPOSITORIO/`. La página del flujo también informa la URL real.
 6. En esa URL, verificar importación/exportación de JSON por área, integración con conflictos, matriz, grafo y las tres exportaciones Office. Importar un JSON de prueba en un navegador de prueba para evitar sustituir el trabajo personal.
-7. Crear la etiqueta `v0.1.0-piloto.1` apuntando al commit publicado y registrar el enlace del commit. Compartir el enlace estable y la guía PILOTO.md.
+7. Crear la etiqueta `v0.1.0-piloto.2` apuntando al commit publicado y registrar el enlace del commit. Compartir el enlace estable y la guía PILOTO.md.
 
 ## Trabajo cotidiano y respaldos
 

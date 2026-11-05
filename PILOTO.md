@@ -11,4 +11,4 @@ No editar simultáneamente la misma AC en copias distintas sin acordar qué arch
 
 Versiones: código etiquetado en Git; archivos JSON conservados por fecha; no sobrescribir entregas. Mantener la URL de publicación estable para no cambiar el almacenamiento del navegador. Respaldar en JSON antes de actualizar la aplicación o cambiar de dispositivo.
 
-Publicación pendiente de elegir cuenta y repositorio/proyecto. No se ha publicado este piloto.
+Piloto publicado en https://jeoluptc.github.io/mapeo-curricular-uptc/. La guía breve y su PDF están en Ayuda, en el menú principal.

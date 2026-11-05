@@ -1,6 +1,6 @@
 # Mapeo curricular UPTC y GIS
 
-Piloto 0.1.0-piloto.1. Aplicación estática para organizar la malla, competencias, resultados de aprendizaje y aportes I/R/A. Se publica una sola aplicación; cada compañero trabaja sus AC y comparte archivos JSON por área.
+Piloto 0.1.0-piloto.2. Aplicación estática para organizar la malla, competencias, resultados de aprendizaje y aportes I/R/A. Se publica una sola aplicación; cada compañero trabaja sus AC y comparte archivos JSON por área.
 
 ## Uso
 
@@ -35,3 +35,7 @@ JSON v2 separa nivel, revisión y decisión. Se pueden importar respaldos v1. El
 GitHub Actions valida el proyecto, prepara `dist/` y lo publica al actualizar `main`. Las solicitudes de cambio ejecutan las comprobaciones sin publicar. Configurar Settings > Pages > Source: GitHub Actions. Instrucciones en PUBLICACION.md.
 
 Antes de cambiar de URL, navegador o equipo, exportar un respaldo JSON e importarlo en el nuevo destino. Los proyectos publicados bajo el mismo dominio mantienen almacenamientos separados por ruta.
+
+## Ayuda para el equipo
+
+Ayuda está visible en el menú principal. Incluye la guía de trabajo por áreas y su descarga PDF en `assets/guias/guia-piloto.pdf`. La fuente común es `js/data/help.js`; `scripts/generate-help-pdf.py` genera el PDF con ReportLab. El PDF se guarda en Git para que la publicación no requiera dependencias Python. Tras editar la guía, regenerarlo y comprobar su legibilidad antes de publicar.
