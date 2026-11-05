@@ -1,10 +1,10 @@
 # Artefactos locales y paquetes de trabajo
-dist/
+/dist/
 node_modules/
-backups/
-exports/
-outputs/
-work/
+/backups/
+/exports/
+/outputs/
+/work/
 *.json
 !package.json
 *.docx
@@ -17,3 +17,4 @@ work/
 .DS_Store
 Thumbs.db
 ~$*
+
